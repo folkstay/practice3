@@ -47,12 +47,10 @@ body {
     box-shadow: 0 -2px 8px rgba(0, 0, 0, 0.05);
 }
 
-.bottom-panel img {
-    width: 24px;
-    height: 24px;
+.bottom-panel  img {
+    width: 14px;
+    height: 14px;
     object-fit: contain;
-    cursor: pointer;
-    transition: transform 0.2s ease;
 }
 
 .bottom-panel img:hover {
@@ -84,10 +82,9 @@ body {
 }
 
 .top-panel img {
-    width: 24px;
-    height: 24px;
+    width: 14px;
+    height: 14px;
     object-fit: contain;
-    cursor: pointer;
 }
 
 .panel-center {
